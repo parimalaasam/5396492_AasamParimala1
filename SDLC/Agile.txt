@@ -1,0 +1,4 @@
+I have successfully completed the “Agile for Beginners” course offered by Great Learning,
+a certificate‑based introductory program designed to provide a solid foundation in Agile methodology and software development life cycles (SDLC). 
+The curriculum included a comparison between Waterfall and Agile approaches, core Agile principles, iterative development practices, and effective team collaboration techniques.
+This course helped me develop the mindset and essential knowledge to contribute effectively in Agile-oriented environments.
