@@ -1,0 +1,3 @@
+I’m taking up the Git module in Simplilearn next.
+Completed and published the Simplilearn Git module on GitHub—repository is publicly accessible.
+
